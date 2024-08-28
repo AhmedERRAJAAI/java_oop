@@ -1,0 +1,18 @@
+OOP - CONSTRUCTORS:
+
+- When a class is instantiated, a constructor is created implicitly.
+- Constructor has no return type.
+- Constructor overloading :
+-- similar to method overloading  you can
+   + define two constructors and based on the signature java will know which one to call
+   + we can use constructor overloading to pass default values
+
+-- if the nbr of parameters is the same between two constructors:
+    the types of the parameters or order must defer
+
+- Constructors chaining:
+    + allows to call a constructor form inside another constructor
+-- usage:
+---- could be used to provide default values by declaring a constructor that takes no
+     argument and call the other constructor that requires arguments and pass default values manually
+
