@@ -16,3 +16,9 @@ OOP - CONSTRUCTORS:
 ---- could be used to provide default values by declaring a constructor that takes no
      argument and call the other constructor that requires arguments and pass default values manually
 
+-POJO: Plain Old Java Object -> see Pojo.java
+    + a POJO class is a class that doesn't extend any other classes
+    + doesn't include complex logic
+    + Encapsulation
+    + No annotations: annotations looks like decorators, but they dont affect code execution directly they can instruct code execution in a particular manner , they provide data about the function or a class.
+
