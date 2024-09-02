@@ -1,0 +1,6 @@
+@RECORD
+- for each components in the record header java generates:
+    + a field with the same name and declared type as the record component
+    + the field is declared private and final
+
+- Records are immutable which means when a record is created it can't be modified (no setters are allowed)

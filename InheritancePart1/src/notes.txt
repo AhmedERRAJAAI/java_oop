@@ -7,3 +7,7 @@
 
 - super()
     it's a way to call a constructor on the super class directly from the sub class's constructor.
+
+- overriding a method
+   + Overriding a method is when you create a method on a subclass that has the same method signature as a method on a super class.
+   + you override a parent class method when you want the child class to show different behaviour for that method
